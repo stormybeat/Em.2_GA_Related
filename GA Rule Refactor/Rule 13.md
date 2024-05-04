@@ -1,0 +1,4 @@
+
+### Respect plural members.
+  
+Respect plural members, and only use PK for our allowed use cases. If you see users talking with the bot tag, they're talking through PluralKit. Due to Discord limitations, these messages will show up with the [BOT] tag - however, they are not bots, they are users. Additionally, PluralKit is not for any form of roleplay. Any form of discrimination or hate against alters will be met with a ban, all forms and origins of plurality are accepted here. ***All users of an account are responsible for its conduct. This includes plural users. It is up to the collective users of an account to be responsible for what happens on their account.***

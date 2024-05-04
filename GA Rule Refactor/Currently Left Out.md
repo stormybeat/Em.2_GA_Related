@@ -1,0 +1,1 @@
+Lying about age is a instant ban always. (Originally [[Rule 1]])

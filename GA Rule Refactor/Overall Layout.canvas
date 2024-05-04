@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"64568f7264ce8c08","type":"file","file":"GA Rule Refactor/Rule 1.md","x":-738,"y":58,"width":400,"height":400},
+		{"id":"3b2e8edfaa0d6a49","type":"file","file":"GA Rule Refactor/Rule 2.md","x":-738,"y":503,"width":400,"height":400},
+		{"id":"2cf452beb50f1b31","type":"file","file":"GA Rule Refactor/Rule 4.md","x":-738,"y":1378,"width":400,"height":400},
+		{"id":"495ee1ec7e9ae561","type":"file","file":"GA Rule Refactor/Rule 5.md","x":-738,"y":1818,"width":400,"height":400},
+		{"id":"138e5f2186b4b865","type":"file","file":"GA Rule Refactor/Rule 1 Clarifications.md","x":-300,"y":58,"width":400,"height":400},
+		{"id":"c3798289be5704ab","type":"file","file":"GA Rule Refactor/Rule 3.md","x":-738,"y":943,"width":400,"height":400},
+		{"id":"5e1d59b9f6b32a8c","type":"file","file":"GA Rule Refactor/Rule 8.md","x":160,"y":943,"width":400,"height":400},
+		{"id":"6f8fbf215a9a5eb7","type":"file","file":"GA Rule Refactor/Rule 8 Clarifications.md","x":598,"y":943,"width":400,"height":400},
+		{"id":"1f45627a4813227b","type":"file","file":"GA Rule Refactor/Rule 7.md","x":160,"y":503,"width":400,"height":400},
+		{"id":"138ac485e8ae9f0f","type":"file","file":"GA Rule Refactor/Rule 6.md","x":160,"y":63,"width":400,"height":400},
+		{"id":"bb70fd7032174dc6","type":"file","file":"GA Rule Refactor/Rule 9.md","x":160,"y":1383,"width":400,"height":400},
+		{"id":"fbf14e833c187b51","type":"file","file":"GA Rule Refactor/Rule 10.md","x":160,"y":1863,"width":400,"height":400},
+		{"id":"f7cfcd0d5c60222f","type":"file","file":"GA Rule Refactor/Rule 17.md","x":1920,"y":63,"width":400,"height":400},
+		{"id":"d85845abbb695d74","type":"file","file":"GA Rule Refactor/Rule 18.md","x":1920,"y":503,"width":400,"height":400},
+		{"id":"11f77d28bc3122c4","type":"file","file":"GA Rule Refactor/Notes.md","x":1920,"y":943,"width":400,"height":400},
+		{"id":"2067aca30f00baa3","x":2380,"y":63,"width":400,"height":400,"type":"file","file":"GA Rule Refactor/Rule 17 Clarifications.md"},
+		{"id":"24ed642d266e6f60","type":"file","file":"GA Rule Refactor/Rule 11.md","x":1040,"y":58,"width":400,"height":400},
+		{"id":"3dae6bf629cc4214","type":"file","file":"GA Rule Refactor/Rule 12.md","x":1040,"y":503,"width":400,"height":400},
+		{"id":"e0dece792f0478e0","type":"file","file":"GA Rule Refactor/Rule 13.md","x":1040,"y":943,"width":400,"height":400},
+		{"id":"a08b2c8ad46b6234","type":"file","file":"GA Rule Refactor/Rule 15.md","x":1040,"y":1378,"width":400,"height":400},
+		{"id":"ed421d2f5b925bbb","type":"file","file":"GA Rule Refactor/Rule 16.md","x":1040,"y":1818,"width":400,"height":400}
+	],
+	"edges":[]
+}
