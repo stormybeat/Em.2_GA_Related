@@ -1,4 +1,4 @@
 
-### Moderator have discretion to do what they see fit.
+### Generalized Punishment Guidelines
 
-If you're misbehaving, but it's not against any single rule, mods may take any action they see fit, within reason. If you believe a moderator has used this to abuse their power, please #contact-staff 
+This server uses a three strike system.  If you break the rules within your first day and with little to no message history you may be banned.  [[Rule 18 Clarifications]]

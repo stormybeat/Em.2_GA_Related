@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "318681ef93d27d7b",
+        "id": "aeb3b1e73f3d88cf",
         "type": "tabs",
         "children": [
           {
-            "id": "ee0cbd960bd10fb7",
+            "id": "dd19026ecde132da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GA Rule Refactor/Rule 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "419f1b0f4fb3ac26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GA Rule Refactor/Rule 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4b992a9e55c4b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GA Rule Refactor/Rule 2.md",
+                "file": "GA Mod Policy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GA Rule Refactor/Rule 2.md",
+                "file": "GA Mod Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GA Rule Refactor/Rule 2.md",
+                "file": "GA Mod Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GA Rule Refactor/Rule 2.md"
+                "file": "GA Mod Policy.md"
               }
             }
           }
@@ -171,39 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4b992a9e55c4b4a",
+  "active": "dd19026ecde132da",
   "lastOpenFiles": [
-    "GA Rule Refactor/Rule 3.md",
-    "GA Rule Refactor/Rule 2.md",
-    "GA Rule Refactor/Rule 1.md",
-    "GA Rule Refactor/Rule 14.md",
-    "GA Rule Refactor/Rule 4.md",
-    "GA Rule Refactor/Rule 12.md",
-    "Untitled",
-    "GA Rule Refactor/Rule 11.md",
-    "GA Rule Refactor/Rule 10.md",
-    "GA Rule Refactor/Rule 9.md",
-    "GA Rule Refactor/Rule 15.md",
-    "GA Rule Refactor/Rule 13.md",
-    "GA Rule Refactor/Notes.md",
+    "GA Rule Refactor/Rule 18 Clarifications.md",
     "GA Rule Refactor/Rule 18.md",
-    "GA Rule Refactor/Rule 17 Clarifications.md",
     "GA Rule Refactor/Rule 17.md",
-    "GA Rule Refactor/Rule 16.md",
+    "GA Rule Refactor/Rule 17 Clarifications.md",
+    "GA Rule Refactor/Rule 16 Clarifications.md",
     "GA Rule Refactor/Rule 8 Clarifications.md",
     "GA Rule Refactor/Rule 8.md",
-    "GA Rule Refactor/Rule 7.md",
-    "GA Rule Refactor/Rule 5.md",
+    "GA Rule Refactor/Rule 6 Clarifications.md",
     "GA Rule Refactor/Rule 6.md",
     "GA Rule Refactor/Rule 1 Clarifications.md",
+    "GA Rule Refactor/Rule 19.md",
+    "GA Rule Refactor/Rule 1.md",
+    "GA Mod Policy.md",
+    "Staff Intro.md",
+    "GA Rule Refactor/Notes.md",
+    "GA Rule Refactor/Currently Left Out.md",
+    "GA Rule Refactor/Rule 11.md",
+    "GA Rule Refactor/Rule 13.md",
+    "GA Rule Refactor/Rule 15.md",
+    "GA Rule Refactor/Rule 16.md",
+    "GA Rule Refactor/Rule 12.md",
+    "GA Rule Refactor/Rule 10.md",
+    "GA Rule Refactor/Rule 9.md",
+    "GA Rule Refactor/Rule 7.md",
+    "GA Rule Refactor/Rule 5.md",
+    "GA Rule Refactor/Rule 3.md",
     "GA Rule Refactor/Overall Layout.canvas",
+    "Untitled",
     "OHa10236",
     "GA Rule Refactor.zip",
     "New Compressed (zipped) Folder.zip",
-    "Staff Intro.md",
-    "GA Rule Refactor/Currently Left Out.md",
-    "GA Rule Refactor/Rule 20.md",
-    "GA Rule Refactor/Rule 19.md",
     "GA Rule Refactor"
   ]
 }

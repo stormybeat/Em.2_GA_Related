@@ -1,0 +1,1 @@
+6a: An infraction of this rule will count as 2 warnings.

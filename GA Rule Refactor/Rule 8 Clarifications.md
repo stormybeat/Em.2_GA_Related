@@ -5,6 +5,7 @@
 8d: The mention of ||cum, genitals, and sexual/horny|| terminology are included in this ban.
 
 8e: This includes no nipples regardless of gender. 
+8e1: If you wish for an exception to be added, please contact staff. The following is a list of current exceptions to 8e: Gigachad meme,
 
 8f: Any mention of tops, bottoms, switches, doms, subs terminology in their sexual definitions or any action that could be interpreted as such are banned.
 
@@ -15,3 +16,5 @@
 8h: All content in profiles that sells, advertises, mentions, or solicits adult content will be grounds for a ban. Use above mentioned examples to define adult content. 
 
 8i: Cropped NSFW content is strictly forbidden. NSFW includes gore, hentai, porn.
+
+8j: An infraction of this rule will count as 2 warnings.
